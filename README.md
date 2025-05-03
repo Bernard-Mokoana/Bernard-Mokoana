@@ -61,17 +61,7 @@ I’m working towards becoming a skilled software engineer who can design and bu
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bernard-mokoana&theme=github-dark-blue" alt="bernard-mokoana" />
 </p>
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bernard-mokoana&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Bernard-Mokoana">
-    <img src="https://github-profile-trophy.vercel.app/?username=bernard-mokoana&theme=algolia&row=1&margin-w=10&margin-h=10" alt="Trophies" />
-  </a>
-</p>
 
 ---
 
