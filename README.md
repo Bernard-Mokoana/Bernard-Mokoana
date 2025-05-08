@@ -22,7 +22,7 @@ I’m working towards becoming a skilled software engineer who can design and bu
 
 #### 🧰 Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,redux" alt="Frameworks & Libraries"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,redux,androidstudio" alt="Frameworks & Libraries"/>
 </p>
 
 #### 🗄️ Databases
@@ -37,7 +37,7 @@ I’m working towards becoming a skilled software engineer who can design and bu
 
 #### 🎨 Design & UI
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator" alt="Design & UI"/>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,canva" alt="Design & UI"/>
 </p>
 
 #### ⚙️ Tools & Platforms
