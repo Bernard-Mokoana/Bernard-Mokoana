@@ -61,8 +61,6 @@ I’m working towards becoming a skilled software engineer who can design and bu
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bernard-mokoana&theme=github-dark-blue" alt="bernard-mokoana" />
 </p>
 
-
-
 ---
 
 ### 📫 Connect with Me
@@ -70,7 +68,6 @@ I’m working towards becoming a skilled software engineer who can design and bu
 - 📧 Email: [bernardmokoana@gmail.com](mailto:bernardmokoana@gmail.com)
 - 💼 LinkedIn: [Bernard Mokoana](https://linkedin.com/in/bernard-mokoana)
 - 🌐 Portfolio: [bernard-mokoana.github.io/myPortfolio](https://bernard-mokoana.github.io/myPortfolio/)
-
 
 ---
 
@@ -82,22 +79,20 @@ I’m working towards becoming a skilled software engineer who can design and bu
 
 ### 🌱 Currently Learning
 
-- Full-Stack Web Development
-- Web and System Design
+- 📱 Enrolled in **FNB App Academy**: Learning to build mobile apps using **React Native** and **Python (Backend)**
+- 🧑‍💻 Completing a **Full Web Development Course on Udemy** (80% complete)  
+  - 🔧 Remaining topics:
+    - Full-stack authentication with **MongoDB** and **Next.js**
+    - Tools & Databases: **Appwrite**, **Prisma**, **Drizzle**, **NeoDB**, **Zustand**
+    - 🚀 Learning deployment strategies
 
 ---
 
 ### 💬 Ask Me About
-- Backend Development
-- Node.js
-- Express.js
-- Java 
+
+- Backend Development  
+- Node.js  
+- Express.js  
+- Java  
 
 ---
-
-### ⚡ Fun Fact
-
-I just want to watch anime and play games 🎮
-
----
-
