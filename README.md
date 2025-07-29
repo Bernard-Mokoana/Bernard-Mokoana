@@ -79,7 +79,6 @@ I’m working towards becoming a skilled software engineer who can design and bu
 
 ### 🌱 Currently Learning
 
-- 📱 Enrolled in **FNB App Academy**: Learning to build mobile apps using **React Native** and **Python (Backend)**
 - 🧑‍💻 Completing a **Full Web Development Course on Udemy** (80% complete)  
   - 🔧 Remaining topics:
     - Full-stack authentication with **MongoDB** and **Next.js**
