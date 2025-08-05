@@ -77,7 +77,7 @@ I’m working towards becoming a skilled software engineer who can design and bu
 
 ---
 
-### 🌱 Currently Learning
+### 🌱 Currently
 
 - 🧑‍💻 Completing a **Full Web Development Course on Udemy** (80% complete)  
   - 🔧 Remaining topics:
