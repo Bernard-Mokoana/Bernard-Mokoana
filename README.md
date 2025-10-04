@@ -86,12 +86,3 @@ I’m working towards becoming a skilled software engineer who can design and bu
     - 🚀 Learning deployment strategies
 
 ---
-
-### 💬 Ask Me About
-
-- Backend Development  
-- Node.js  
-- Express.js  
-- Java  
-
----
