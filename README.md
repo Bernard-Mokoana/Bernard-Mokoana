@@ -70,19 +70,3 @@ I’m working towards becoming a skilled software engineer who can design and bu
 - 🌐 Portfolio: [bernard-mokoana.github.io/myPortfolio](https://bernard-mokoana.github.io/myPortfolio/)
 
 ---
-
-### 🔭 Projects
-
-- 🎥 [Video Streaming Application](https://github.com/Bernard-Mokoana/Video-Streaming-Platform)
-
----
-
-### 🌱 Currently
-
-- 🧑‍💻 Completing a **Full Web Development Course on Udemy** (80% complete)  
-  - 🔧 Remaining topics:
-    - Full-stack authentication with **MongoDB** and **Next.js**
-    - Tools & Databases: **Appwrite**, **Prisma**, **Drizzle**, **NeoDB**, **Zustand**
-    - 🚀 Learning deployment strategies
-
----
