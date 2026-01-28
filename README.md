@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Bernard Mokoana</h1>
-<h3 align="center">A Computer Science student and aspiring Software Engineer from South Africa</h3>
+<h3 align="center">A Computer Science graduate and an aspiring Software Engineer from South Africa</h3>
 
 ---
 
