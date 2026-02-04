@@ -47,22 +47,6 @@ I’m working towards becoming a skilled software engineer who can design and bu
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bernard-mokoana&show_icons=true&theme=github_dark&locale=en" alt="bernard-mokoana" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernard-mokoana&layout=compact&theme=github_dark" alt="bernard-mokoana" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bernard-mokoana&theme=github-dark-blue" alt="bernard-mokoana" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 - 📧 Email: [bernardmokoana@gmail.com](mailto:bernardmokoana@gmail.com)
