@@ -9,6 +9,10 @@
   I build scalable backend systems, modern frontend applications, and real-world software solutions.
 </p>
 
+<p align="center">
+  I am currently focused on AI and cloud technologies to become an AI Cloud Engineer.
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -21,6 +25,7 @@ My focus areas include:
 - Database design & optimization
 - Modern frontend development with React
 - Cloud deployment & scalable infrastructure
+- AI and cloud engineering
 
 I am continuously learning, building, and refining my engineering skills with the goal of becoming a world-class software engineer.
 
@@ -87,6 +92,7 @@ I am continuously learning, building, and refining my engineering skills with th
 - Improving backend scalability and security practices
 - Learning advanced system design concepts
 - Exploring cloud engineering fundamentals
+- Focusing on AI and cloud technologies to become an AI Cloud Engineer
 
 ---
 
@@ -98,6 +104,7 @@ To become a highly skilled Software Engineer capable of:
 - Building impactful fintech or health-tech platforms  
 - Leading engineering teams  
 - Launching innovative technology products  
+- Specializing in AI-powered cloud solutions  
 
 ---
 
