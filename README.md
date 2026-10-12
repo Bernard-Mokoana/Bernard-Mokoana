@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  I am currently focused on AI and cloud technologies to become an AI Cloud Engineer.
+  I am currently focused on AI and cloud technologies.
 </p>
 
 ---
