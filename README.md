@@ -1,11 +1,11 @@
-<!-- Backend-focused software engineering profile -->
+<!-- Backend software engineering profile -->
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer working at a computer" width="360"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Bernard Mokoana</h1>
-<h3 align="center">Backend-focused Software Engineer | Full-Stack Developer | Computer Science Graduate 🇿🇦</h3>
+<h3 align="center">Backend Software Engineer | Full-Stack Developer | Computer Science Graduate 🇿🇦</h3>
 
 <p align="center">
   I design and build backend services, APIs, and full-stack applications, with a growing focus on distributed systems and cloud-native engineering.
@@ -97,13 +97,6 @@ An exploration of real-time AI application architecture. The system separates th
 A real-time leaderboard application built around a TypeScript backend and event-driven communication. Redis and Socket.IO support real-time updates across connected clients.
 
 **Engineering concepts:** REST APIs, WebSockets, Redis adapter, relational data, authentication, and backend service organisation.
-
-### [ThengaLive](https://github.com/Bernard-Mokoana/ThengaLive)
-**Full-stack application | React, Node.js, Express, PostgreSQL, AWS S3**
-
-A full-stack application with separate frontend and backend components, including file-handling functionality and cloud object-storage integration.
-
-**Engineering concepts:** API integration, file uploads, object storage, and full-stack application structure.
 
 ### [Watchman](https://github.com/Bernard-Mokoana/Watchman)
 **Fintech security concept | TypeScript, Node.js, Next.js, PostgreSQL, Redis**
