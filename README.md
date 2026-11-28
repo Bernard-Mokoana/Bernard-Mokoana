@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/bernard-mokoana">LinkedIn</a> •
-  <a href="https://bernard-mokoana.github.io/myPortfolio/">Portfolio</a> •
+  <a href="https://bernard-mokoana.github.io/">Portfolio</a> •
   <a href="mailto:bernardmokoana@gmail.com">Email</a>
 </p>
 
@@ -151,7 +151,7 @@ My longer-term interests include backend and platform engineering, distributed s
 
 - **Email:** [bernardmokoana@gmail.com](mailto:bernardmokoana@gmail.com)
 - **LinkedIn:** [linkedin.com/in/bernard-mokoana](https://linkedin.com/in/bernard-mokoana)
-- **Portfolio:** [bernard-mokoana.github.io/myPortfolio](https://bernard-mokoana.github.io/myPortfolio/)
+- **Portfolio:** [bernard-mokoana.github.io/myPortfolio](https://bernard-mokoana.github.io/)
 
 <p align="center">
   <i>Building, learning, and improving one system at a time.</i>
